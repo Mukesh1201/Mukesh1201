@@ -2,7 +2,7 @@
 👋 Hi there! I'm an aspiring Java Full Stack Developer passionate.<br><br>💻 I'm actively enhancing my expertise in Java, Spring Boot, and React.<br><br>🔍 Actively looking for internship or entry-level opportunities in full stack development.<br><br>⚙️ Focused on designing scalable and maintainable web applications.<br><br>🖥️ I enjoy building simple, functional UI  and connecting them with robust backend logic.<br><br>🌐 Check out my portfolio: your-portfolio-link.com<br><br>📬 Let's connect:<br>[![Email]<br>[![LinkedIn]
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.happy1201?igsh=czI2MWtwNmU1NHlz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-mukesh2001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukesh20010112@gmail.com) 
 
 # 💻 Tech Stack:

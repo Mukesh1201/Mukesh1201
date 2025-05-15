@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an aspiring Java Full Stack Developer passionate.<br><br>💻 I'm actively enhancing my expertise in Java, Spring Boot, and React.<br><br>🔍 Actively looking for internship or entry-level opportunities in full stack development.<br><br>⚙️ Focused on designing scalable and maintainable web applications.<br><br>🖥️ I enjoy building simple, functional UI  and connecting them with robust backend logic.<br><br>🌐 Check out my portfolio: your-portfolio-link.com<br><br>📬 Let's connect:<br>mukesh20010112@gmail.com<br>https://www.linkedin.com/in/s-mukesh2001
+👋 Hi there! I'm an aspiring Java Full Stack Developer passionate.<br><br>💻 I'm actively enhancing my expertise in Java, Spring Boot, and React.<br><br>🔍 Actively looking for internship or entry-level opportunities in full stack development.<br><br>⚙️ Focused on designing scalable and maintainable web applications.<br><br>🖥️ I enjoy building simple, functional UI  and connecting them with robust backend logic.<br><br>🌐 Check out my portfolio: https://mukesh-portfolio-official.netlify.app/<br><br>📬 Let's connect:<br>mukesh20010112@gmail.com<br>https://www.linkedin.com/in/s-mukesh2001
 
 
 ## 🌐 Socials Media:
